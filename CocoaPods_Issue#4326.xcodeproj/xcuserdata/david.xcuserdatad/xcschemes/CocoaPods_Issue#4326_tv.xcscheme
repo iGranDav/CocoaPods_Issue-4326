@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "63548E861BD11C9500207E77"
-               BuildableName = "ios_target.app"
-               BlueprintName = "ios_target"
+               BlueprintIdentifier = "63548E9F1BD11CBA00207E77"
+               BuildableName = "tvos_target.app"
+               BlueprintName = "tvos_target"
                ReferencedContainer = "container:CocoaPods_Issue#4326.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "63548E861BD11C9500207E77"
-            BuildableName = "ios_target.app"
-            BlueprintName = "ios_target"
+            BlueprintIdentifier = "63548E9F1BD11CBA00207E77"
+            BuildableName = "tvos_target.app"
+            BlueprintName = "tvos_target"
             ReferencedContainer = "container:CocoaPods_Issue#4326.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -55,9 +55,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "63548E861BD11C9500207E77"
-            BuildableName = "ios_target.app"
-            BlueprintName = "ios_target"
+            BlueprintIdentifier = "63548E9F1BD11CBA00207E77"
+            BuildableName = "tvos_target.app"
+            BlueprintName = "tvos_target"
             ReferencedContainer = "container:CocoaPods_Issue#4326.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -74,9 +74,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "63548E861BD11C9500207E77"
-            BuildableName = "ios_target.app"
-            BlueprintName = "ios_target"
+            BlueprintIdentifier = "63548E9F1BD11CBA00207E77"
+            BuildableName = "tvos_target.app"
+            BlueprintName = "tvos_target"
             ReferencedContainer = "container:CocoaPods_Issue#4326.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

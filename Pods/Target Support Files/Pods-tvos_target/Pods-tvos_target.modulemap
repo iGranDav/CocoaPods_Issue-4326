@@ -1,0 +1,6 @@
+framework module Pods_tvos_target {
+  umbrella header "Pods-tvos_target-umbrella.h"
+
+  export *
+  module * { export * }
+}

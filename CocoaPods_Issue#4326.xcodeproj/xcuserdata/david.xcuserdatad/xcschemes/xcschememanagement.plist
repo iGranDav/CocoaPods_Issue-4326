@@ -9,10 +9,20 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>CocoaPods_Issue#4326_tv.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>63548E861BD11C9500207E77</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>63548E9F1BD11CBA00207E77</key>
 		<dict>
 			<key>primary</key>
 			<true/>
